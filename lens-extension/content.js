@@ -1,4 +1,4 @@
-const DEEPSEEK_KEY = "sk-94ad6ed9e21640158d2a4fe1ef50baf8"
+const DEEPSEEK_KEY = "YOUR_API_KEY_HERE"
 
 async function askDeepSeek(word) {
   const res = await fetch("https://api.deepseek.com/chat/completions", {
