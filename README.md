@@ -1,4 +1,6 @@
+
 # 🌍 Lens
+<img width="1280" height="765" alt="lens" src="https://github.com/user-attachments/assets/a5e7b55b-b524-4d4b-9069-e9a786420408" />
 
 > *If someone can naturally connect DSSE, Sigstore, Attestation, and AI Code Provenance into a single product — they have probably traveled through at least three worlds.*
 
