@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Lens",
+  "version": "1.0",
+  "description": "Cognitive Archaeology — see the worlds hidden in what people make.",
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["https://github.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
